@@ -1,0 +1,15 @@
+# Treat all files as binary by default to prevent line ending conversion
+* text=auto
+
+# Explicitly mark image and media formats as binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary
+*.mp4  binary
+*.webm binary
+*.svg  binary
+*.woff binary
+*.woff2 binary
